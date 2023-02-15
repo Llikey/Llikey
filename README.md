@@ -165,10 +165,10 @@
 <div align="center" >
   
 <!-- Awesome repo 比较好的仓库-->
-<a href="https://github.com/sun0225SUN/Awesome-Love-Code">
+<!-- <a href="https://github.com/sun0225SUN/Awesome-Love-Code">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
 <a href="https://github.com/sun0225SUN/Student-Data-Vision">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br> -->
     
 </div>
 
