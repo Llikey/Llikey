@@ -80,62 +80,7 @@
 
 </td></tr>
 
-<tr><td>
 
-<!-- wakatime 统计 -->
-### 📊 WakaTime
-  
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning       79 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-🌆 Daytime      130 commits       ███████░░░░░░░░░░░░░░░░░░   27.84 % 
-🌃 Evening      161 commits       ████████░░░░░░░░░░░░░░░░░   34.48 % 
-🌙 Night         97 commits       █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday          61 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Tuesday         49 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Wednesday       50 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Thursday        53 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Friday         143 commits       ███████░░░░░░░░░░░░░░░░░░   30.62 % 
-Saturday        73 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Sunday          38 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               7 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   41.88 % 
-Markdown                 7 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   41.39 % 
-Python                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-YAML                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-JSON                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-
-🔥 Editors: 
-VS Code                  15 hrs 16 mins      ██████████████████████░░░   89.54 % 
-Obsidian                 1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-
-💻 Operating System: 
-Windows                  16 hrs 10 mins      ███████████████████████░░   94.85 % 
-Linux                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-
-```
-
-
- Last Updated on 14/02/2023 01:42:51 UTC
-<!--END_SECTION:waka-->
-  
-</td></tr>
 </table>
 
 <!-- ########################################## 分割 ########################################## -->
@@ -214,8 +159,6 @@ Linux                    52 mins             █░░░░░░░░░░�
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 
-<!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
@@ -223,33 +166,15 @@ Linux                    52 mins             █░░░░░░░░░░�
 
 <div align="center" >
 
-<!-- Github-Stats-Terminal 终端风格信息 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Github-Stats-Terminal/github_stats.svg"/><br>
-  
 <!-- Quotes 名人名言 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
   
-<!-- GitHub 奖杯🏆 -->
-<img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
-
-<!-- GitHub 数据统计 -->
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
-
 <!-- Awesome repo 比较好的仓库-->
-<a href="https://github.com/sun0225SUN/Awesome-Love-Code">
+<!-- <a href="https://github.com/sun0225SUN/Awesome-Love-Code">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
 <a href="https://github.com/sun0225SUN/Student-Data-Vision">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
-  
-<!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
-  </tr>
-</table>
-
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br> -->
+    
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
