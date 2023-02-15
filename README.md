@@ -50,9 +50,9 @@
 <!--  <tr><td> -->
 
 <!-- 近期博客 -->
-### 📃 Recent Blog
+<!-- ### 📃 Recent Blog -->
   
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+<!-- <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" /> -->
 
 <!-- START_SECTION:blog -->
 <!-- * <a href='https://blog.sunguoqi.com/archives/github_profile_0' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
