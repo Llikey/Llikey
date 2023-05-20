@@ -9,22 +9,19 @@
 
 <!-- 个人信息 -->
 <p align="center">
-  <a href="https://your-website.com">个人网站</a> •
+  <a href="https://github.com/Llikey">个人网站</a> •
   <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> •
-  <a href="mailto:your-email@example.com">Email</a>
+  <a href="mailto:88888888@qq.com">Email</a>
 </p>
 
 <!-- 项目清单 -->
 ## 个人项目
 
 - [项目1](https://github.com/your-username/repo1): 项目1的简要描述。
-- [项目2](https://github.com/your-username/repo2): 项目2的简要描述。
 
 <!-- 开源贡献 -->
 ## 开源贡献
 
-- [贡献1](https://github.com/your-username/repo1): 贡献1的简要描述。
-- [贡献2](https://github.com/your-username/repo2): 贡献2的简要描述。
 
 <!-- 技术栈 -->
 ## 技术栈
