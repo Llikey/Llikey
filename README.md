@@ -1,16 +1,47 @@
-### Hi there 👋
+<!-- 项目标题 -->
+<h1 align="center">欢迎来到我的GitHub主页</h1>
 
-<!--
-**Llikey/Llikey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 项目描述 -->
+<p align="center">这里是我展示个人项目和开源贡献的地方。</p>
 
-Here are some ideas to get you started:
+<!-- 标语/口号 -->
+<p align="center">编码 | 创造 | 探索</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 个人信息 -->
+<p align="center">
+  <a href="https://your-website.com">个人网站</a> •
+  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> •
+  <a href="mailto:your-email@example.com">Email</a>
+</p>
+
+<!-- 项目清单 -->
+## 个人项目
+
+- [项目1](https://github.com/your-username/repo1): 项目1的简要描述。
+- [项目2](https://github.com/your-username/repo2): 项目2的简要描述。
+
+<!-- 开源贡献 -->
+## 开源贡献
+
+- [贡献1](https://github.com/your-username/repo1): 贡献1的简要描述。
+- [贡献2](https://github.com/your-username/repo2): 贡献2的简要描述。
+
+<!-- 技术栈 -->
+## 技术栈
+
+- PHP
+- Laravel
+- MySQL
+- HTML/CSS
+- JavaScript
+
+<!-- GitHub统计信息 -->
+## GitHub统计
+
+![统计信息](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=stars,issues&theme=radical)
+
+<!-- 最后更新时间 -->
+<p align="center">最后更新于：May 20, 2023</p>
+
+<!-- 参考链接 -->
+<p align="center">感谢您访问我的GitHub主页！🌟</p>
