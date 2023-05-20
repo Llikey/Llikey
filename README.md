@@ -10,7 +10,7 @@
 <!-- 个人信息 -->
 <p align="center">
   <a href="https://github.com/Llikey">个人网站</a> •
-  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> •
+  <a href="https://github.com/Llikey">LinkedIn</a> •
   <a href="mailto:88888888@qq.com">Email</a>
 </p>
 
