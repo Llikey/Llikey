@@ -38,7 +38,7 @@
 <!-- GitHub统计信息 -->
 ## GitHub统计
 
-![统计信息](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=stars,issues&theme=radical)
+![统计信息](https://github-readme-stats.vercel.app/api?username=Llikey&show_icons=true&count_private=true&hide=stars,issues&theme=radical)
 
 <!-- 最后更新时间 -->
 <p align="center">最后更新于：May 20, 2023</p>
